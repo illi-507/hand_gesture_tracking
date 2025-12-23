@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/hand_landmark_display/",
+  base: "/hand_gesture_tracking/",
 });
