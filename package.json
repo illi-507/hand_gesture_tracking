@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://illi-507.github.io/hand_landmark_display",
+  "homepage": "https://illi-507.github.io/hand_gesture_tracking",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
